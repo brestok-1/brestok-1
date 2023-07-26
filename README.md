@@ -1,8 +1,8 @@
 
 
-## <div align="center">Hello everyone!👋</div>  
+# <div align="center">Hello everyone!👋</div>  
 <div align="center">
-<img src="assets/Picsart_23-07-26_15-18-45-044.jpg" align="center" style="width: 100%; height: 40%" />
+<img src="assets/github.gif" align="center" style="width: 100%; height: 40%" />
 </div>  
 <br/>
 <div align="center">
@@ -27,7 +27,7 @@
 
 
 
-### <div align="center">My name is Maksim, I am back-end / python developer 👨‍💻 </div>  
+## <div align="center">My name is Maksim, I am back-end / python developer 👨‍💻 </div>  
   
 
 - 🔭 I've been learning python for over two years  
@@ -43,3 +43,4 @@
   
 
 <br/>  
+
