@@ -21,6 +21,9 @@
 <a href="https://instagram.com/mmakkssikk" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23E1306C?.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
+<a href="mailto:6234513@gmail.com?&body=Hello, Maksim." target="_blank">
+<img src=https://img.shields.io/badge/email-%232E87FB.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=c71610 alt=email style="margin-bottom: 5px;" />
+</a>
 </div>
 
 
@@ -43,4 +46,46 @@
   
 
 <br/>  
+
+## My skill set
+
+***Languages***
+
+![Python](https://img.shields.io/badge/-Python-1C1C1C?&style=for-the-badge&logo=python&logoColor=306998)
+![JavaScript](https://img.shields.io/badge/-JavaScript-1C1C1C?&style=for-the-badge&logo=javascript&logoColor=yellow)
+![C++](https://img.shields.io/badge/-C++-1C1C1C?&style=for-the-badge&logo=cplusplus&logoColor=044f88)
+
+***Frameworks***
+
+![Django](https://img.shields.io/badge/-Django-1C1C1C?&style=for-the-badge&logo=django&logoColor=white)
+![Aiogram](https://img.shields.io/badge/-Aiogram-1C1C1C?&style=for-the-badge&logo=aiohttp&logoColor=00Bfff)
+![FastAPI](https://img.shields.io/badge/-FASTAPI-1C1C1C?&style=for-the-badge&logo=fastapi&logoColor=009688)
+
+
+***Databases***
+
+![Postgres](https://img.shields.io/badge/-Postgresql-1C1C1C?&style=for-the-badge&logo=postgresql&logoColor=87CEFA)
+![Redis](https://img.shields.io/badge/-Redis-1C1C1C?&style=for-the-badge&logo=redis&logoColor=FF0000)
+
+
+***Tools and Libraries***
+
+![Docker](https://img.shields.io/badge/-Docker-1C1C1C?&style=for-the-badge&logo=docker&logoColor=87CEFA)
+![DRF](https://img.shields.io/badge/-DRF-1C1C1C?&style=for-the-badge&logo=django&logoColor=white)
+![Celery](https://img.shields.io/badge/-Celery-1C1C1C?&style=for-the-badge&logo=celery&logoColor=green)
+![OPENAI](https://img.shields.io/badge/-OPENAI-1C1C1C?&style=for-the-badge&logo=openai&logoColor=41291)
+![Stripe](https://img.shields.io/badge/-Stripe-1C1C1C?&style=for-the-badge&logo=stripe&logoColor=9370DB)
+![SQLAlchemy](https://img.shields.io/badge/-SQlalchemy-1C1C1C?&style=for-the-badge&logo=sqlite&logoColor=DC143C)
+![Pandas](https://img.shields.io/badge/-PANDAS-1C1C1C?&style=for-the-badge&logo=pandas&logoColor=41291)
+![Binance](https://img.shields.io/badge/-Binance-1C1C1C?&style=for-the-badge&logo=binance)
+![Asyncio](https://img.shields.io/badge/-acyncio-1C1C1C?&style=for-the-badge&logo=pagespeedinsights&logoColor=4285F4)
+
+***Other skills***
+
+![Communicative](https://img.shields.io/badge/-communicative-1C1C1C?&style=for-the-badge&logo=&logoColor=41291)
+![Proposeful](https://img.shields.io/badge/-purposeful-1C1C1C?&style=for-the-badge&logo=&logoColor=41291)
+![Sporty](https://img.shields.io/badge/-Sporty-1C1C1C?&style=for-the-badge&logo=&logoColor=41291)
+![Math](https://img.shields.io/badge/-mathematics-1C1C1C?&style=for-the-badge&logo=&logoColor=41291)
+![Physics](https://img.shields.io/badge/-physics-1C1C1C?&style=for-the-badge&logo=&logoColor=41291)
+![English](https://img.shields.io/badge/-English_(B1+)-1C1C1C?&style=for-the-badge&logo=&logoColor=41291)
 
