@@ -73,12 +73,20 @@
 ![Docker](https://img.shields.io/badge/-Docker-1C1C1C?&style=for-the-badge&logo=docker&logoColor=87CEFA)
 ![DRF](https://img.shields.io/badge/-DRF-1C1C1C?&style=for-the-badge&logo=django&logoColor=white)
 ![Celery](https://img.shields.io/badge/-Celery-1C1C1C?&style=for-the-badge&logo=celery&logoColor=green)
-![OPENAI](https://img.shields.io/badge/-OPENAI-1C1C1C?&style=for-the-badge&logo=openai&logoColor=41291)
 ![Stripe](https://img.shields.io/badge/-Stripe-1C1C1C?&style=for-the-badge&logo=stripe&logoColor=9370DB)
+![OPENAI](https://img.shields.io/badge/-OPENAI-1C1C1C?&style=for-the-badge&logo=openai&logoColor=41291)
 ![SQLAlchemy](https://img.shields.io/badge/-SQlalchemy-1C1C1C?&style=for-the-badge&logo=sqlite&logoColor=DC143C)
 ![Pandas](https://img.shields.io/badge/-PANDAS-1C1C1C?&style=for-the-badge&logo=pandas&logoColor=41291)
 ![Binance](https://img.shields.io/badge/-Binance-1C1C1C?&style=for-the-badge&logo=binance)
 ![Asyncio](https://img.shields.io/badge/-acyncio-1C1C1C?&style=for-the-badge&logo=pagespeedinsights&logoColor=4285F4)
+
+***Frontend***
+
+![HTML5](https://img.shields.io/badge/-html-1C1C1C?&style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/-css-1C1C1C?&style=for-the-badge&logo=css3&logoColor=1572B6)
+![Bootstrap](https://img.shields.io/badge/-bootstrap-1C1C1C?&style=for-the-badge&logo=bootstrap)
+![JQuery](https://img.shields.io/badge/-JQuery-1C1C1C?&style=for-the-badge&logo=jquery&logoColor=0769AD)
+
 
 ***Other skills***
 
@@ -88,4 +96,7 @@
 ![Math](https://img.shields.io/badge/-mathematics-1C1C1C?&style=for-the-badge&logo=&logoColor=41291)
 ![Physics](https://img.shields.io/badge/-physics-1C1C1C?&style=for-the-badge&logo=&logoColor=41291)
 ![English](https://img.shields.io/badge/-English_(B1+)-1C1C1C?&style=for-the-badge&logo=&logoColor=41291)
+
+
+## Statistic
 
