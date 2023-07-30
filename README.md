@@ -78,7 +78,7 @@
 ![SQLAlchemy](https://img.shields.io/badge/-SQlalchemy-1C1C1C?&style=for-the-badge&logo=sqlite&logoColor=DC143C)
 ![Pandas](https://img.shields.io/badge/-PANDAS-1C1C1C?&style=for-the-badge&logo=pandas&logoColor=41291)
 ![Binance](https://img.shields.io/badge/-Binance-1C1C1C?&style=for-the-badge&logo=binance)
-![Asyncio](https://img.shields.io/badge/-acyncio-1C1C1C?&style=for-the-badge&logo=pagespeedinsights&logoColor=4285F4)
+![Asyncio](https://img.shields.io/badge/-asyncio-1C1C1C?&style=for-the-badge&logo=pagespeedinsights&logoColor=4285F4)
 
 ***Frontend***
 
