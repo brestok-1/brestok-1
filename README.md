@@ -2,7 +2,7 @@
 
 # <div align="center">Hello everyone!👋</div>  
 <div align="center">
-<img src="assets/github.gif" align="center" style="width: 100%; height: 40%" />
+<img src="assets/animated_gif4.gif" align="center" style="width: 100%; height: 40%" />
 </div>  
 <br/>
 <div align="center">
