@@ -51,7 +51,7 @@
 
 ***Languages***
 
-![Python](https://img.shields.io/badge/-Python-1C1C1C?&style=for-the-badge&logo=python&logoColor=306998)
+![Python](https://img.shields.io/badge/-Python-1C1C1C?&style=for-the-badge&logo=python&logoColor=3776AB)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-1C1C1C?&style=for-the-badge&logo=javascript&logoColor=yellow)
 ![C++](https://img.shields.io/badge/-C++-1C1C1C?&style=for-the-badge&logo=cplusplus&logoColor=044f88)
 
@@ -66,19 +66,22 @@
 
 ![Postgres](https://img.shields.io/badge/-Postgresql-1C1C1C?&style=for-the-badge&logo=postgresql&logoColor=87CEFA)
 ![Redis](https://img.shields.io/badge/-Redis-1C1C1C?&style=for-the-badge&logo=redis&logoColor=FF0000)
+![SQLite](https://img.shields.io/badge/-SQLITE-1C1C1C?&style=for-the-badge&logo=sqlite&logoColor=003B99)
 
 
 ***Tools and Libraries***
 
 ![Docker](https://img.shields.io/badge/-Docker-1C1C1C?&style=for-the-badge&logo=docker&logoColor=87CEFA)
+![Nginx](https://img.shields.io/badge/-nginx-1C1C1C?&style=for-the-badge&logo=nginx&logoColor=009639)
 ![DRF](https://img.shields.io/badge/-DRF-1C1C1C?&style=for-the-badge&logo=django&logoColor=white)
 ![Celery](https://img.shields.io/badge/-Celery-1C1C1C?&style=for-the-badge&logo=celery&logoColor=green)
 ![Stripe](https://img.shields.io/badge/-Stripe-1C1C1C?&style=for-the-badge&logo=stripe&logoColor=9370DB)
 ![OPENAI](https://img.shields.io/badge/-OPENAI-1C1C1C?&style=for-the-badge&logo=openai&logoColor=41291)
-![SQLAlchemy](https://img.shields.io/badge/-SQlalchemy-1C1C1C?&style=for-the-badge&logo=sqlite&logoColor=DC143C)
+![SQLAlchemy](https://img.shields.io/badge/-SQlalchemy-1C1C1C?&style=for-the-badge&logo=slides&logoColor=#E4637C)
 ![Pandas](https://img.shields.io/badge/-PANDAS-1C1C1C?&style=for-the-badge&logo=pandas&logoColor=41291)
 ![Binance](https://img.shields.io/badge/-Binance-1C1C1C?&style=for-the-badge&logo=binance)
 ![Asyncio](https://img.shields.io/badge/-asyncio-1C1C1C?&style=for-the-badge&logo=pagespeedinsights&logoColor=4285F4)
+![Socketio](https://img.shields.io/badge/-Socket.io-1C1C1C?&style=for-the-badge&logo=socketdotio&logoColor=#010101)
 
 ***Frontend***
 
