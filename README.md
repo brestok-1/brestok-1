@@ -33,7 +33,7 @@
 ## <div align="center">My name is Maksim, I am back-end / python developer 👨‍💻 </div>  
   
 
-- 🔭 I've been learning python for over two years  
+- 🔭 I've been learning python for over three years  
   
 
 - 🎓 I am constantly learning new libraries, technologies and frameworks
@@ -98,7 +98,7 @@
 ![Sporty](https://img.shields.io/badge/-Sporty-1C1C1C?&style=for-the-badge&logo=&logoColor=41291)
 ![Math](https://img.shields.io/badge/-mathematics-1C1C1C?&style=for-the-badge&logo=&logoColor=41291)
 ![Physics](https://img.shields.io/badge/-physics-1C1C1C?&style=for-the-badge&logo=&logoColor=41291)
-![English](https://img.shields.io/badge/-English_(B1+)-1C1C1C?&style=for-the-badge&logo=&logoColor=41291)
+![English](https://img.shields.io/badge/-English_(B2+)-1C1C1C?&style=for-the-badge&logo=&logoColor=41291)
 
 
 ## Statistic
